@@ -1,0 +1,6 @@
+path: H:/mobile_used_project/mobile_used_dataset
+train: train
+val: val
+
+names:
+  0: 'mobile_used'
